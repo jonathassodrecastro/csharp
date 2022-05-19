@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30114.105
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Calculator", "Calculator\Calculator.csproj", "{1B578E9A-357E-4949-8F7D-0B4F40E422A8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Stopwatch", "Stopwatch\Stopwatch.csproj", "{CA91F0AE-2AB8-4DA8-A518-37A9262DDD74}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TextEditor", "TextEditor\TextEditor.csproj", "{43128DC2-5882-45A0-A335-D6C1181AA4AA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1B578E9A-357E-4949-8F7D-0B4F40E422A8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1B578E9A-357E-4949-8F7D-0B4F40E422A8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1B578E9A-357E-4949-8F7D-0B4F40E422A8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1B578E9A-357E-4949-8F7D-0B4F40E422A8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CA91F0AE-2AB8-4DA8-A518-37A9262DDD74}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CA91F0AE-2AB8-4DA8-A518-37A9262DDD74}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CA91F0AE-2AB8-4DA8-A518-37A9262DDD74}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CA91F0AE-2AB8-4DA8-A518-37A9262DDD74}.Release|Any CPU.Build.0 = Release|Any CPU
+		{43128DC2-5882-45A0-A335-D6C1181AA4AA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{43128DC2-5882-45A0-A335-D6C1181AA4AA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{43128DC2-5882-45A0-A335-D6C1181AA4AA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{43128DC2-5882-45A0-A335-D6C1181AA4AA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
